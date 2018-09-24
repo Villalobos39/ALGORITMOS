@@ -1,0 +1,7 @@
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\bin\Debug\PALINDROMO.exe.config
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\bin\Debug\PALINDROMO.exe
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\bin\Debug\PALINDROMO.pdb
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\obj\Debug\PALINDROMO.csprojAssemblyReference.cache
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\obj\Debug\PALINDROMO.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\obj\Debug\PALINDROMO.exe
+C:\Users\dulso\source\repos\08_VILLALOBOS_PEREZ_DULCE_JASMIN\PALINDROMO\obj\Debug\PALINDROMO.pdb
