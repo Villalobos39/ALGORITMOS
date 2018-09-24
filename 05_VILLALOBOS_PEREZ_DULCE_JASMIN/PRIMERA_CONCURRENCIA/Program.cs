@@ -18,15 +18,15 @@ namespace PRIMERA_CONCURRENCIA
                     Console.Write("\n\t\b>> PRIMER ELEMENTO MAYOR <<\n");
                     Console.Write("INGRESE NUMERO DE ELEMENTOS :"); numero = int.Parse(Console.ReadLine());
                     double[] sucesion = new double[numero];
-                    for (int contar = 0; contar < numero; contar++)
+                    for (int contar = 0; contar < numero; contar++) \\ALMACENO LOS DATOS EN EL VECTOR SUCESION
                     {
                         Console.Write("\n\tINGRESE {0} ELEMENTO : ", contar + 1);
                         sucesion[contar] = double.Parse(Console.ReadLine());
                     }
                     Console.Write("\n\t EL ELEMENTO MAYOR : {0}\n", (sucesion.ToList().IndexOf(sucesion.Max()) + 1));
-                    Console.ReadKey();
+                    Console.ReadKey(); \\ UTILIZO LA AYUDA DE LOS METODOS DE EXTENSION
                 }
-                catch (FormatException)
+                catch (FormatException) \\CACHO LOS ERRORES DE FORMATO QUE PODRIA INGRESAR EL USUARIO 
                 {
                     Console.Write("\n\t\b\aERROR DE FORMATO\n");
                 }
